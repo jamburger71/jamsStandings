@@ -1,6 +1,6 @@
 # Jams Standings
 
-This repository hosts the source code and ROBLOX place file in which the model can be tested. This project was created for the IMRP racing league in ROBLOX and is not for distribution. It is designed to run alongside Wesley's Timing System 3, with future plans of an implementation for [Wesley's Timing System 4](https://github.com/Wesley1041/wes-timing-system-4).
+This repository hosts the source code and ROBLOX place file in which the model can be tested. This project was created using the Rojo plugin for the IMRP racing league in ROBLOX and is not for distribution. It is designed to run alongside Wesley's Timing System 3, with future plans of an implementation for [Wesley's Timing System 4](https://github.com/Wesley1041/wes-timing-system-4).
 
 ## Coding
 ### Single Script Architecture
